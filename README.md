@@ -21,7 +21,24 @@ The snippets code are using netsuite-types project [SuiteScript 2.0 Typings](htt
 | `beforeLoad`                  | User event beforeLoad entry point                                  |
 | `emptyscript`                  | An empty script with anotations                                  |
 | `clientscript`                  | Client script                                  |
-| `mapreduce`                  |Map reduce script                                  |
+| `beforeLoad`                  | Client script beforeLoad entry point                                  |
+| `fieldChanged`                  | Client script fieldChanged entry point                                  |
+| `lineinit`                  | Client script lineinit entry point                                  |
+| `pageInit`                  | Client script pageInit entry point                                  |
+| `postSourcing`                  | Client script postSourcing entry point                                  |
+| `saveRecord`                  | Client script saveRecord entry point                                  |
+| `sublistChanged`                  | Client script sublistChanged entry point                                  |
+| `validateDelete`                  | Client script validateDelete entry point                                  |
+| `validateField`                  | Client script validateField entry point                                  |
+| `validateInsert`                  | Client script validateInsert entry point                                  |
+| `validateLine`                  | Client script validateLine entry point                                  |
+| `localizationContextEnter`                  | Client script localizationContextEnter entry point                                  |
+| `localizationContextExit`                  | Client script localizationContextExit entry point                                  |
+| `mapreduce`                  | Map reduce script                                  |
+| `getInputData`                  | Map reduce getInputData entry point                                  |
+| `map`                  | Map reduce map entry point                                  |
+| `reduce`                  | Map reduce reduce entry point                                  |
+| `summarize`                  | Map reduce summarize entry point                                  |
 | `portlet`                  | Portlet script                                  |
 | `schedule`                  | Schedule script                                  |
 | `sdfinstallationscript`                  | SDFinstallation script                                  |
