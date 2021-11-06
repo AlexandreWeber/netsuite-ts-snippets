@@ -101,6 +101,83 @@
         ],
         "description": "fieldChanged"
     },
+    "lineinit": {
+      "prefix": "lineinit",
+      "body": [
+        "export function lineinit(context: EntryPoints.Client.lineInitContext): void {}"
+      ],
+      "description": "lineinit"
+    },
+    "pageInit": {
+      "prefix": "pageInit",
+      "body": [
+        "export function pageInit(context: EntryPoints.Client.pageInitContext): void {}"
+      ],
+      "description": "pageInit"
+    },
+    "postSourcing": {
+      "prefix": "postSourcing",
+      "body": [
+        "export function postSourcing(context: EntryPoints.Client.postSourcingContext): void {}"
+      ],
+      "description": "postSourcing"
+    },
+    "saveRecord": {
+      "prefix": "saveRecord",
+      "body": [
+        "export function saveRecord(context: EntryPoints.Client.saveRecordContext): void {}"
+      ],
+      "description": "saveRecord"
+    },
+    "sublistChanged": {
+      "prefix": "sublistChanged",
+      "body": [
+        "export function sublistChanged(context: EntryPoints.Client.sublistChangedContext): void {}"
+      ],
+      "description": "sublistChanged"
+    },
+    "validateDelete": {
+      "prefix": "validateDelete",
+      "body": [
+        "export function validateDelete(context: EntryPoints.Client.validateDeleteContext): void {}"
+      ],
+      "description": "validateDelete"
+    },
+    "validateField": {
+      "prefix": "validateField",
+      "body": [
+        "export function validateField(context: EntryPoints.Client.validateFieldContext): void {}"
+      ],
+      "description": "validateField"
+    },
+    "validateInsert": {
+      "prefix": "validateInsert",
+      "body": [
+        "export function validateInsert(context: EntryPoints.Client.validateInsertContext): void {}"
+      ],
+      "description": "validateInsert"
+    },
+    "validateLine": {
+      "prefix": "validateLine",
+      "body": [
+        "export function validateLine(context: EntryPoints.Client.validateLineContext): void {}"
+      ],
+      "description": "validateLine"
+    },
+    "localizationContextEnter": {
+      "prefix": "localizationContextEnter",
+      "body": [
+        "export function localizationContextEnter(context: any): void {}"
+      ],
+      "description": "localizationContextEnter"
+    },
+    "localizationContextExit": {
+      "prefix": "localizationContextExit",
+      "body": [
+        "export function localizationContextExit(context: any): void {}"
+      ],
+      "description": "localizationContextExit"
+    },
     "mapreduce": {
         "prefix": "mapreduce",
         "body": [
@@ -124,6 +201,34 @@
           ""
         ],
         "description": "mapreduce"
+    },
+    "getInputData": {
+      "prefix": "getInputData",
+      "body": [
+        "export function getInputData(context: EntryPoints.MapReduce.getInputDataContext): void {}"
+      ],
+      "description": "getInputData"
+    },
+    "map": {
+      "prefix": "map",
+      "body": [
+        "export function map(context: EntryPoints.MapReduce.mapContext): void {}"
+      ],
+      "description": "map"
+    },
+    "reduce": {
+      "prefix": "reduce",
+      "body": [
+        "export function reduce(context: EntryPoints.MapReduce.reduceContext): void {}"
+      ],
+      "description": "reduce"
+    },
+    "summarize": {
+      "prefix": "summarize",
+      "body": [
+        "export function summarize(context: EntryPoints.MapReduce.summarizeContext): void {}"
+      ],
+      "description": "summarize"
     },
     "portlet": {
         "prefix": "portlet",
