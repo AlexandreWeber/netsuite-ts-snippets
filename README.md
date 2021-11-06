@@ -10,7 +10,6 @@ The snippets code are using netsuite-types project [SuiteScript 2.0 Typings](htt
 
 ## Example 
 ![](https://raw.githubusercontent.com/AlexandreWeber/netsuite-ts-snippets/main/sample.gif)
-&nbsp;
 
 ## Snippets
 
