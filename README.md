@@ -6,7 +6,7 @@ This extension contains code snippets for Netsuite SuiteApps developed with Type
 
 To use the extension you need to open a TypeScript file and type one of the prefixes below to get the snippet code. 
 
-The snippets code are using netsuite-types project [SuiteScript 2.0 Typings](https://github.com/headintheclouddev/typings-suitescript-2.0).\
+The snippets code are using netsuite-types project [SuiteScript 2.0 Typings](https://github.com/headintheclouddev/typings-suitescript-2.0).
 
 ## Example 
 &nbsp;
