@@ -2,7 +2,7 @@
     "name": "netsuite-ts-snippets",
     "displayName": "Netsuite TS Snippets",
     "publisher": "AlexandreWeberDalabona",
-    "description": "This extension contains code snippets for Netsuite SuiteApps with TypeScript",
+    "description": "This extension contains code snippets for Netsuite SuiteApps developed with TypeScript",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.62.0"
