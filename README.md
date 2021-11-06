@@ -9,8 +9,6 @@ To use the extension you need to open a TypeScript file and type one of the pref
 The snippets code are using netsuite-types project [SuiteScript 2.0 Typings](https://github.com/headintheclouddev/typings-suitescript-2.0).
 
 ## Example 
-&nbsp;
-
 ![](https://raw.githubusercontent.com/AlexandreWeber/netsuite-ts-snippets/main/sample.gif)
 &nbsp;
 
