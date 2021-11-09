@@ -298,5 +298,46 @@
           ""
         ],
         "description": "sdfinstallationscript"
+    },
+    "Unit test": {
+      "prefix": "unit-test-template",
+      "body": [
+        "/**",
+        " * Copyright (c) 2021, Oracle NetSuite and/or its affiliates. All rights reserved.",
+        " */",
+        "",
+        "beforeEach(() => {",
+        "    jest.clearAllMocks();",
+        "});",
+        "",
+        "afterEach(() => {});",
+        "",
+        "describe(\"\", () => {",
+        "    beforeAll(() => {});",
+        "",
+        "    beforeEach(() => {});",
+        "",
+        "    describe(\"\", () => {});",
+        "});",
+        ""
+      ],
+      "description": "Unit test"
+    },
+    "describe": {
+      "prefix": "describe",
+      "body": [
+        "describe(\"\", () => {",
+        "",
+        "});"
+      ],
+      "description": "describe"
+    },
+    "it": {
+      "prefix": "it",
+      "body": [
+        "it(\"\", () => {",
+        "});"
+      ],
+      "description": "it"
     }
 }
