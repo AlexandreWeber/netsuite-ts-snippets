@@ -42,3 +42,6 @@ The snippets code are using netsuite-types project [SuiteScript 2.0 Typings](htt
 | `portlet`                  | Portlet script                                  |
 | `schedule`                  | Schedule script                                  |
 | `sdfinstallationscript`                  | SDFinstallation script                                  |
+| `unit-test-template`                  | JEST unit test template script                                   |
+| `describe`                  | JEST unit test describe                                   |
+| `it`                  | JEST unit test it                                   |
