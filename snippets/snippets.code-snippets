@@ -3,7 +3,7 @@
         "prefix": "userevent",
         "body": [
           "/**",
-          " * @copyright © 2021, Oracle and/or its affiliates. All rights reserved.",
+          " * @copyright © 2022, Oracle and/or its affiliates. All rights reserved.",
           " *",
           " * @NApiVersion 2.x",
           " * @NModuleScope Public",
@@ -58,7 +58,7 @@
         "prefix": "clientscript",
         "body": [
           "/**",
-          " * @copyright © 2021, Oracle and/or its affiliates. All rights reserved.",
+          " * @copyright © 2022, Oracle and/or its affiliates. All rights reserved.",
           " *",
           " * @NApiVersion 2.x",
           " * @NModuleScope Public",
@@ -182,7 +182,7 @@
         "prefix": "mapreduce",
         "body": [
           "/**",
-          " * @copyright © 2021, Oracle and/or its affiliates. All rights reserved.",
+          " * @copyright © 2022, Oracle and/or its affiliates. All rights reserved.",
           " *",
           " * @NApiVersion 2.x",
           " * @NModuleScope Public",
@@ -234,7 +234,7 @@
         "prefix": "portlet",
         "body": [
           "/**",
-          " * @copyright © 2021, Oracle and/or its affiliates. All rights reserved.",
+          " * @copyright © 2022, Oracle and/or its affiliates. All rights reserved.",
           " *",
           " * @NApiVersion 2.x",
           " * @NModuleScope Public",
@@ -252,7 +252,7 @@
         "prefix": "schedule",
         "body": [
           "/**",
-          " * @copyright © 2021, Oracle and/or its affiliates. All rights reserved.",
+          " * @copyright © 2022, Oracle and/or its affiliates. All rights reserved.",
           " *",
           " * @NApiVersion 2.x",
           " * @NModuleScope Public",
@@ -270,7 +270,7 @@
         "prefix": "suitelet",
         "body": [
           "/**",
-          " * @copyright © 2021, Oracle and/or its affiliates. All rights reserved.",
+          " * @copyright © 2022, Oracle and/or its affiliates. All rights reserved.",
           " *",
           " * @NApiVersion 2.x",
           " * @NModuleScope Public",
@@ -288,7 +288,7 @@
         "prefix": "sdfinstallationscript",
         "body": [
           "/**",
-          " * @copyright © 2021, Oracle and/or its affiliates. All rights reserved.",
+          " * @copyright © 2022, Oracle and/or its affiliates. All rights reserved.",
           " *",
           " * @NApiVersion 2.x",
           " * @NScriptType sdfinstallationscript",
